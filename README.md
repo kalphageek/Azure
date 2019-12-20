@@ -30,7 +30,8 @@
 * Integrate Azure Search within solution <- Elastic Search와 유사
 * Establish API Gateways
 
-#AZ-400
+# AZ-400
+<a href="https://github.com/kalphageek/Azure/wiki/1.-DevOps-Learning">DevOps Learning</a>
 ## PaaS
 * Serverless Container
 * Container on VM
